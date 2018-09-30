@@ -85,9 +85,9 @@ Description
 - [Christine Perfetti](https://www.drupal.org/user/2529244), [User Experience](http://2015.drupalcorn.org/christine-perfetti/index.html)
 - [Cathy Theys](https://www.drupal.org/u/yesct), [Building a Drupal Community](http://2015.drupalcorn.org/cathy-theys/index.html)
 ### Training
-- [Behavior Driven Development with Behat](http://2015.drupalcorn.org/behavior-driven-development-behat/index.html), $149
-- [UX Bootcamp: Evaluating and Improving Your Site](http://2015.drupalcorn.org/ux-bootcamp-evaluating-and-improving-your-web-sites/index.html), $95
-- [Get Started w/ Drupal The Right Way!](http://2015.drupalcorn.org/get-started-w-drupal-right-way/index.html), $50
+- [Behavior Driven Development with Behat](http://2015.drupalcorn.org/behavior-driven-development-behat/index.html) - Promet Source, $149
+- [UX Bootcamp: Evaluating and Improving Your Site](http://2015.drupalcorn.org/ux-bootcamp-evaluating-and-improving-your-web-sites/index.html) - Perfetti Media, $95
+- [Get Started w/ Drupal The Right Way!](http://2015.drupalcorn.org/get-started-w-drupal-right-way/index.html) - , $50
 ### Sprint
 - Drupal 8, contributed module porting - Dave Reid & Cathy Theys
 - Backdrop
