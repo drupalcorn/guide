@@ -54,8 +54,8 @@ We are proud to announce DrupalCorn Camp 2013, to be held on the University of I
 - Media Module Code Sprint
 
 ## 2014 - Ankeny
-[http://2014.drupalcorn.org](http://2014.drupalcorn.org)
 July 17-20, 2014
+[http://2014.drupalcorn.org](http://2014.drupalcorn.org)
 Description
 
 ### Committee
@@ -72,14 +72,19 @@ Description
 - Backdrop
 
 ## 2015 - Cedar Falls
-URL
-Date
+July 30 - August 2, 2018
+[http://2015.drupalcorn.org/](http://2015.drupalcorn.org/)
 Description
 
 ### Committee
 @TODO
 ### Keynotes
+- [Christine Perfetti](https://www.drupal.org/user/2529244), [User Experience](http://2015.drupalcorn.org/christine-perfetti/index.html)
+- [Cathy Theys](https://www.drupal.org/u/yesct), [Building a Drupal Community](http://2015.drupalcorn.org/cathy-theys/index.html)
 ### Training
+- [Behavior Driven Development with Behat](http://2015.drupalcorn.org/behavior-driven-development-behat/index.html), $149
+- [UX Bootcamp: Evaluating and Improving Your Site](http://2015.drupalcorn.org/ux-bootcamp-evaluating-and-improving-your-web-sites/index.html), $95
+- [Get Started w/ Drupal The Right Way!](http://2015.drupalcorn.org/get-started-w-drupal-right-way/index.html), $50
 
 ## 2016 - Iowa City (Coralville)
 URL
