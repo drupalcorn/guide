@@ -39,13 +39,18 @@ This was the first time we had multiple days. The original plan was to just have
 - Drupal in a Day
 
 ## 2013 - Iowa City
-URL
-Date
-Description
+http://2013.drupalcorn.org
+August 8-11, 2013
+
+**Get Your Corn On!**
+We are proud to announce DrupalCorn Camp 2013, to be held on the University of Iowa campus in Iowa City, Iowa on August 8 - 11, 2013.  If you are an open source enthusiast, Drupal designer, Drupal developer, UI expert, IT manager, or you just want to find out what this Drupal thing is, this conference is for you!
 
 ### Committee
 ### Keynotes
+- [Dave Reid](https://www.drupal.org/u/dave-reid), Palantir.net (currently at Lullabot)
 ### Training
+### Sprint
+- Media Module Code Sprint
 
 ## 2014 - Ankeny
 URL
