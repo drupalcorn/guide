@@ -15,7 +15,7 @@ nav:
     - Hotels: '#'
     - Marketing: '#'
     - Session Selection: '#'
-    - Volunteers: '#'
+    - Volunteers: 'volunteers.md'
     - Video Capture: '#'
     - Registration: '#'
     - Catering: '#'
