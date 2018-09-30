@@ -113,13 +113,19 @@ Description
 
 Took a break
 ## 2018 - Des Moines
-URL
-Date
+Sept 27-30, 2018
+[https://2018.drupalcorn.org/](https://2018.drupalcorn.org/)
 We're back.
 
 ### Committee
 @TODO
 ### Keynotes
+- [Tiffany Farriss](https://www.palantir.net/people/tiffany-farriss), [Learning @ Work](https://2018.drupalcorn.org/keynote-sessions)
+- [Matt Westgate](https://www.lullabot.com/about/matt-westgate), [How to Fall in Love with Drupal Again](https://2018.drupalcorn.org/keynote-sessions)
 ### Training
+- [Getting Started with Drupal Contribution](https://2018.drupalcorn.org/training/contrib) - AmyJune Hineline (volkswagenchick), $10
 ### Sprint
+- Contributing to Drupal - AmyJune Hineline
+- Guidebook for DrupalCorn
+- Module updates
 
