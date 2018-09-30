@@ -1,0 +1,34 @@
+site_name: DrupalCorn Guide
+theme: readthedocs
+nav:
+  - About:
+    - About this Guide: 'index.md'
+    - Structure: 'structure/index.md'
+    - History: 'history.md'
+  - Identity and Branding: 'identity/identity.md'
+  - Camp Planning:
+    - Timeline: '#'
+    - Meetings: '#'
+    - Venue: '#'
+    - Website: '#'
+    - Sponsors: '#'
+    - Hotels: '#'
+    - Marketing: '#'
+    - Session Selection: '#'
+    - Volunteers: '#'
+    - Video Capture: '#'
+    - Registration: '#'
+    - Catering: '#'
+    - Friends of DrupalCorn Dinner: '#'
+    - Party: '#'
+    - Training Day: '#'
+    - Session Days: '#'
+    - Sprint / Contribution Day: '#'
+    - Post-Camp Analysis: '#'
+  - Code of Conduct:
+    - Code of Conduct: 'code-of-conduct.md'
+    - Managing Complaints: '#'
+markdown_extensions:
+    - toc:
+        permalink: "#"
+        
