@@ -32,11 +32,11 @@ This was the first time we had multiple days. The original plan was to just have
 - Jarod
 
 ### Keynotes
-- Chris Shattuck, BuildAModule - [Beyond the Bubble, Looking In](http://2012.drupalcorn.org/archive/2012/content/keynote-chris-shattuck-palmer-room.html)
+- [Chris Shattuck](https://www.drupal.org/u/chrisshattuck), BuildAModule - [Beyond the Bubble, Looking In](http://2012.drupalcorn.org/archive/2012/content/keynote-chris-shattuck-palmer-room.html)
 
 ### Training
-- BuildAModule
-- Drupal in a Day
+- [Ready to dive into Drupal?](http://2012.drupalcorn.org/archive/2012/content/ready-dive-drupal-chris-shattuck.html) - Chris Shattuck, $20
+- [Drupal in a Day](http://2012.drupalcorn.org/archive/2012/content/drupal-day-michael-hofmockel.html) - Michael Hofmockel, $20
 
 ## 2013 - Iowa City
 August 8-11, 2013
@@ -50,8 +50,11 @@ We are proud to announce DrupalCorn Camp 2013, to be held on the University of I
 ### Keynotes
 - [Dave Reid](https://www.drupal.org/u/dave-reid), Palantir.net (currently at Lullabot)
 ### Training
+- [Absolute Beginner's Guide to Drupal](http://2013.drupalcorn.org/archive/2013/content/absolute-beginners-guide-drupal.html) - Rob Martin, $75
+- [BuildAModule Mentored Training](http://2013.drupalcorn.org/archive/2013/content/buildamodule-mentored-training.html) - Brandon Neil & John Rearick, $20
+- [Drupal for Content Editors](http://2013.drupalcorn.org/archive/2013/content/drupal-content-editors.html) - Michael Hofmockel, $20
 ### Sprint
-- Media Module Code Sprint
+- Media Module Code Sprint - Dave Reid
 
 ## 2014 - Ankeny
 July 17-20, 2014
@@ -64,12 +67,12 @@ Description
 - [Jen Lampton](https://www.drupal.org/u/jenlampton) and [Nate Haug](https://www.drupal.org/u/quicksketch)
 - [Josh Koenig](https://www.drupal.org/u/joshk)
 ### Training
-- BuildAModule Mentored Training
-- Get Started With Drupal & Pantheon
-- Introduction to Web Project Management
+- [BuildAModule Mentored Training](http://2014.drupalcorn.org/training/buildamodule-mentored-training-40/index.html) - John Rearick & Genevieve Johnson, $40
+- [Get Started With Drupal & Pantheon](http://2014.drupalcorn.org/training/get-started-drupal-80/index.html) - Doug Vann, $80
+- [Introduction to Web Project Management](http://2014.drupalcorn.org/training/introduction-web-project-management-120/index.html) - Michael Hofmockel, $120
 ### Sprint
-- Drupal 8, contributed module porting
-- Backdrop
+- Drupal 8, contributed module porting - Dave Reid
+- Backdrop - Jen Lampton
 
 ## 2015 - Cedar Falls
 July 30 - August 2, 2018
@@ -86,7 +89,7 @@ Description
 - [UX Bootcamp: Evaluating and Improving Your Site](http://2015.drupalcorn.org/ux-bootcamp-evaluating-and-improving-your-web-sites/index.html), $95
 - [Get Started w/ Drupal The Right Way!](http://2015.drupalcorn.org/get-started-w-drupal-right-way/index.html), $50
 ### Sprint
-- Drupal 8, contributed module porting
+- Drupal 8, contributed module porting - Dave Reid & Cathy Theys
 - Backdrop
 
 ## 2016 - Iowa City (Coralville)
