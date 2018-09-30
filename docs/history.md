@@ -19,8 +19,8 @@ There were no keynote presentations.
 There were no trainings.
 
 ## 2012 - Ames
-http://2012.drupalcorn.org
 August 2-4, 2012
+[http://2012.drupalcorn.org](http://2012.drupalcorn.org)
 
 This was the first time we had multiple days. The original plan was to just have 2 days of sessions, but when we got our keynote speaker we added a day of training. The event was held at the Scheman building on the Iowa State University camps. The venue was fairly expensive and catering was limited to their on-site option, which cost more money. Fiscal sponsorship was provided by the Brenton Center at Iowa State University.
 
@@ -39,13 +39,14 @@ This was the first time we had multiple days. The original plan was to just have
 - Drupal in a Day
 
 ## 2013 - Iowa City
-http://2013.drupalcorn.org
 August 8-11, 2013
+[http://2013.drupalcorn.org](http://2013.drupalcorn.org)
 
 **Get Your Corn On!**
 We are proud to announce DrupalCorn Camp 2013, to be held on the University of Iowa campus in Iowa City, Iowa on August 8 - 11, 2013.  If you are an open source enthusiast, Drupal designer, Drupal developer, UI expert, IT manager, or you just want to find out what this Drupal thing is, this conference is for you!
 
 ### Committee
+@TODO
 ### Keynotes
 - [Dave Reid](https://www.drupal.org/u/dave-reid), Palantir.net (currently at Lullabot)
 ### Training
@@ -58,6 +59,7 @@ July 17-20, 2014
 Description
 
 ### Committee
+@TODO
 ### Keynotes
 - [Jen Lampton](https://www.drupal.org/u/jenlampton) and [Nate Haug](https://www.drupal.org/u/quicksketch)
 - [Josh Koenig](https://www.drupal.org/u/joshk)
@@ -75,6 +77,7 @@ Date
 Description
 
 ### Committee
+@TODO
 ### Keynotes
 ### Training
 
@@ -84,6 +87,7 @@ Date
 Description
 
 ### Committee
+@TODO
 ### Keynotes
 ### Training
 
@@ -96,6 +100,7 @@ Date
 We're back.
 
 ### Committee
+@TODO
 ### Keynotes
 ### Training
 
