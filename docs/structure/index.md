@@ -38,7 +38,7 @@ The Core committee is responsible for maintaining the DrupalCorn brand and organ
 * Maintaining documentation about DrupalCorn
 
 ## Core Members
-The current members can be reached at [core@drupalcorn.org](core@drupalcorn.org).
+The current members can be reached at [core@drupalcorn.org](mailto:core@drupalcorn.org).
 
 - John Rearick
 - Ann Greazel
