@@ -93,15 +93,21 @@ Description
 - Backdrop
 
 ## 2016 - Iowa City (Coralville)
-URL
-Date
+August 4-7, 2016
+[http://2016.drupalcorn.org/](http://2016.drupalcorn.org/)
 Description
 
 ### Committee
 @TODO
 ### Keynotes
+- [Angela "webchick" Byron](https://www.drupal.org/u/webchick), [Drupal 8 Strategic Initiatives: What? Who? Why? & How?](http://2016.drupalcorn.org/keynotes/index.html) 
+- [Todd Nienkerk](https://www.drupal.org/u/todd-nienkerk), [Creating a Culture of Empowerment - What it is, why it matters, and how it will improve  your life and business](http://2016.drupalcorn.org/keynotes/index.html)
 ### Training
+- [Getting Started With Drupal](http://2016.drupalcorn.org/sessions/training-getting-started-drupal/index.html) - , $40
+- [Intro to Backdrop CMS](http://2016.drupalcorn.org/sessions/training-intro-backdrop-cms/index.html) - Jen Lampton & Nate Haug, $40
+- [Drupal 7 Panels Workshop](http://2016.drupalcorn.org/sessions/training-drupal-7-panels-workshop/index.html) - Margaret Plett, $40
 ### Sprint
+- Work collaboratively on a Drupal Project
 
 ## 2017 - Break
 
