@@ -1,5 +1,6 @@
 # The Beginning
-![ALT](drupalcornguy.jpg)
+![Old DrupalCorn Logo](../img/drupalcornguy.png)
+
 Before there was a Drupal camp in Iowa, there was a group called DrupalCorn that had monthly meetups in Ames. The group was started in 2006 by [Matt Westgate](https://www.drupal.org/user/2275). It seems he may have [coined the word "DrupalCorn"](https://groups.drupal.org/node/1814). A few years later the group was mostly organized by [Michael Hofmockel](https://www.drupal.org/user/20694).
 
  Now, it's called the [Central Iowa Drupal Users Group](https://groups.drupal.org/iowa) (CIDUG). The name was changed in order to help alleviate any confusion between the camp, which is organized by people from across the state, and the local meetup.
