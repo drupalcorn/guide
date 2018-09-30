@@ -85,6 +85,9 @@ Description
 - [Behavior Driven Development with Behat](http://2015.drupalcorn.org/behavior-driven-development-behat/index.html), $149
 - [UX Bootcamp: Evaluating and Improving Your Site](http://2015.drupalcorn.org/ux-bootcamp-evaluating-and-improving-your-web-sites/index.html), $95
 - [Get Started w/ Drupal The Right Way!](http://2015.drupalcorn.org/get-started-w-drupal-right-way/index.html), $50
+### Sprint
+- Drupal 8, contributed module porting
+- Backdrop
 
 ## 2016 - Iowa City (Coralville)
 URL
@@ -95,6 +98,7 @@ Description
 @TODO
 ### Keynotes
 ### Training
+### Sprint
 
 ## 2017 - Break
 
@@ -108,4 +112,5 @@ We're back.
 @TODO
 ### Keynotes
 ### Training
+### Sprint
 
