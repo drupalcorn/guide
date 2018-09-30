@@ -53,13 +53,21 @@ We are proud to announce DrupalCorn Camp 2013, to be held on the University of I
 - Media Module Code Sprint
 
 ## 2014 - Ankeny
-URL
-Date
+[http://2014.drupalcorn.org](http://2014.drupalcorn.org)
+July 17-20, 2014
 Description
 
 ### Committee
 ### Keynotes
+- [Jen Lampton](https://www.drupal.org/u/jenlampton) and [Nate Haug](https://www.drupal.org/u/quicksketch)
+- [Josh Koenig](https://www.drupal.org/u/joshk)
 ### Training
+- BuildAModule Mentored Training
+- Get Started With Drupal & Pantheon
+- Introduction to Web Project Management
+### Sprint
+- Drupal 8, contributed module porting
+- Backdrop
 
 ## 2015 - Cedar Falls
 URL
