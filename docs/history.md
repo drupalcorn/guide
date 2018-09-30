@@ -39,25 +39,50 @@ This was the first time we had multiple days. The original plan was to just have
 - Drupal in a Day
 
 ## 2013 - Iowa City
-Iowa City
+URL
+Date
+Description
 
-asdf
+### Committee
+### Keynotes
+### Training
+
 ## 2014 - Ankeny
-Ankeny
+URL
+Date
+Description
 
-asdf
+### Committee
+### Keynotes
+### Training
+
 ## 2015 - Cedar Falls
-Cedar Falls
+URL
+Date
+Description
 
-asdf
+### Committee
+### Keynotes
+### Training
+
 ## 2016 - Iowa City (Coralville)
-Coralville/Iowa City
+URL
+Date
+Description
 
-asdf
+### Committee
+### Keynotes
+### Training
+
 ## 2017 - Break
 
 Took a break
 ## 2018 - Des Moines
-Des Mones
-
+URL
+Date
 We're back.
+
+### Committee
+### Keynotes
+### Training
+
