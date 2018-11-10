@@ -1,5 +1,6 @@
 site_name: DrupalCorn Guide
 theme: readthedocs
+repo_url: https://github.com/drupalcorn/guide
 nav:
   - About:
     - About this Guide: 'index.md'
