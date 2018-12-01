@@ -63,6 +63,8 @@
         
             <li><a class="toctree-l4" href="#contributing-to-the-guide">Contributing to the Guide</a></li>
         
+            <li><a class="toctree-l4" href="#deploying-the-guide">Deploying the Guide</a></li>
+        
         </ul>
     
 
@@ -222,6 +224,9 @@
 <p>The contents of this guide should be taken as recommendations based on what has worked for us in the past. If new ideas come up and sound reasonable to the planning committee, by all means explore it and implement it. If it works out well, modify this guide. This is <strong>not</strong> meant to strike down good ideas or to be the end-all for any disagreements.</p>
 <h2 id="contributing-to-the-guide">Contributing to the Guide<a class="headerlink" href="#contributing-to-the-guide" title="Permanent link">#</a></h2>
 <p>This guide is created using <a href="https://www.mkdocs.org/user-guide/writing-your-docs/">MkDocs</a>, a documentation tool that uses <a href="https://daringfireball.net/projects/markdown/">Markdown</a>. It is hosted on DrupalCorn's GitHub. Feel free to fork, create issues, and make pull requests. If you fork it for your own camp, please <a href="mailto:info@drupalcorn.org">let us know</a>, we're interested in hearing how it's being used.</p>
+<h2 id="deploying-the-guide">Deploying the Guide<a class="headerlink" href="#deploying-the-guide" title="Permanent link">#</a></h2>
+<p>Committing to the master branch will trigger a build that deploys to GitHub Pages. This is accomplished using Travis CI.</p>
+<p>In the repository is a .travis.yml file that holds configuration for the Travis CI service. When changes are made on the master branch Travis CI will build the project and deploy it to GitHub pages. Commit access to repository from Travis is a personal access token on jrearick's account.</p>
               
             </div>
           </div>
