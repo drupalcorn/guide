@@ -1,8 +1,8 @@
 #!/bin/bash
 GH_REPO="@github.com/drupalcorn/guide.git"
 FULL_REPO="https://${GH_TOKEN}$GH_REPO"
-GH_NAME="John Rearick";
-GH_EMAIL="john@drupalcorn.org"
+GH_NAME="DrupalCorn Deploy Bot";
+GH_EMAIL="info@drupalcorn.org"
 
 mkdir -p out
 cd out
