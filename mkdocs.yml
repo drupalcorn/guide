@@ -6,7 +6,7 @@ nav:
     - About this Guide: 'index.md'
     - Structure: 'structure.md'
     - History: 'history.md'
-  - Identity and Branding: 'identity/identity.md'
+  - Identity and Branding: 'identity/index.md'
   - Camp Planning:
     - Timeline: 'camp-planning/timeline.md'
     - Meetings: 'camp-planning/meetings.md'
