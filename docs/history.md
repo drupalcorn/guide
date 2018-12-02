@@ -1,5 +1,6 @@
 
 
+
 # The Beginning
 ![Old DrupalCorn Logo](../img/drupalcornguy.png)
 
@@ -123,10 +124,21 @@ The venue was the Innovative Teaching and Technology Center. Keynotes, lunch, an
 
 ## 2016 - Iowa City (Coralville)
 August 4-7, 2016 | [http://2016.drupalcorn.org/](http://2016.drupalcorn.org/)
-Description
+
+The venue was the [Kirkwood Regional Center at the University of Iowa](http://www.kirkwood.edu/johnsonregional) in the Research Park in Coralville. The party was at [Backpocket Brewing](http://www.backpocketbrewing.com/) at [Iowa River Landing](https://iowariverlanding.com/). The hotel was the [Coralville Marriott](http://www.marriott.com/hotels/travel/cidic-coralville-marriott-hotel-and-conference-center/), also at the Iowa River Landing. Catering was done by various local restaurants.
 
 ### Committee
-@TODO
+
+- [Brandon Neil](https://www.drupal.org/u/bneil)
+- [Genevieve Johnson](https://www.drupal.org/u/genjohnson)
+- [John Rearick](https://www.drupal.org/u/jrearick)
+- [Ann Greazel](https://www.drupal.org/u/AnnGreazel)
+- [DeWayne Purdy](https://www.drupal.org/u/dewpurdy)
+- [Celeste Parker](https://www.drupal.org/user/2945261)
+- [Charles Sanders](https://www.drupal.org/u/csanders)
+- [Rachel Kleven](https://www.drupal.org/u/rskleven)
+
+
 ### Keynotes
 - [Angela "webchick" Byron](https://www.drupal.org/u/webchick), [Drupal 8 Strategic Initiatives: What? Who? Why? & How?](http://2016.drupalcorn.org/keynotes/index.html) 
 - [Todd Nienkerk](https://www.drupal.org/u/todd-nienkerk), [Creating a Culture of Empowerment - What it is, why it matters, and how it will improve
@@ -136,7 +148,8 @@ Description
 - [Intro to Backdrop CMS](http://2016.drupalcorn.org/sessions/training-intro-backdrop-cms/index.html) - Jen Lampton & Nate Haug, $40
 - [Drupal 7 Panels Workshop](http://2016.drupalcorn.org/sessions/training-drupal-7-panels-workshop/index.html) - Margaret Plett, $40
 ### Sprint
-- Work collaboratively on a Drupal Project
+- Drupal
+- Backdrop CMS
 
 ## 2017 - Break
 
