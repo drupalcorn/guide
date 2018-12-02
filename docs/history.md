@@ -1,6 +1,7 @@
 
 
 
+
 # The Beginning
 ![Old DrupalCorn Logo](../img/drupalcornguy.png)
 
@@ -153,13 +154,25 @@ The venue was the [Kirkwood Regional Center at the University of Iowa](http://ww
 
 ## 2017 - Break
 
-Took a break
+Took a break with plans to return for 2018. People were sad, but supportive. It showed that it's okay to take a break if needed.
+
 ## 2018 - Des Moines
 Sept 27-30, 2018 | [https://2018.drupalcorn.org/](https://2018.drupalcorn.org/)
-We're back.
+
+We're back. The venue was the [Iowa Center for Higher Education](https://desmoines.uiowa.edu/locations/iowa-center-higher-education), formerly the AIB campus, in Des Moines. The main hotel was the [Hyatt Place Des Moines (downtown)](https://www.hyatt.com/en-US/hotel/iowa/hyatt-place-des-moines-downtown/dsmzd) and an alternate at the [Des Moines Marriott Downtown](https://www.marriott.com/hotels/travel/dsmia-des-moines-marriott-downtown/). The party was at [Big City Burgers and Greens](https://www.bigcityburgersandgreens.com/).
 
 ### Committee
-@TODO
+
+- [John Rearick](https://www.drupal.org/u/jrearick)
+- [Ann Greazel](https://www.drupal.org/u/AnnGreazel)
+- [DeWayne Purdy](https://www.drupal.org/u/dewpurdy)
+- [Lee Hood](https://www.drupal.org/u/coder51)
+- [Rachel Kleven](https://www.drupal.org/u/rskleven)
+- [Celeste Parker](https://www.drupal.org/user/2945261)
+- [Charles Sanders](https://www.drupal.org/u/csanders)
+- [Alyssa Hanson](https://www.drupal.org/u/ajlib)
+- [AmyJune Hineline](https://www.drupal.org/u/volkswagenchick)
+
 ### Keynotes
 - [Tiffany Farriss](https://www.palantir.net/people/tiffany-farriss), [Learning @ Work](https://2018.drupalcorn.org/keynote-sessions)
 - [Matt Westgate](https://www.lullabot.com/about/matt-westgate), [How to Fall in Love with Drupal Again](https://2018.drupalcorn.org/keynote-sessions)
