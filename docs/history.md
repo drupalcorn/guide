@@ -1,4 +1,5 @@
 
+
 # The Beginning
 ![Old DrupalCorn Logo](../img/drupalcornguy.png)
 
@@ -95,10 +96,20 @@ The venue was the [FFA Enrichment Center](http://www.ffaenrichmentcenter.com/) o
 
 ## 2015 - Cedar Falls
 July 30 - August 2, 2018 | [http://2015.drupalcorn.org/](http://2015.drupalcorn.org/)
-Description
+
+The venue was the Innovative Teaching and Technology Center. Keynotes, lunch, and party were in the Mauker Union ballroom. All at the University of Northern Iowa in Cedar Falls. The hotel was the Country Inns and Suites and catering was down by UNI Catering and Events.
 
 ### Committee
-@TODO
+
+- [DeWayne Purdy](https://www.drupal.org/u/dewpurdy)
+- [Genevieve Johnson](https://www.drupal.org/u/genjohnson)
+- [Carolyn Dorr](https://www.drupal.org/u/cdorr)
+- [Rachel Kleven](https://www.drupal.org/u/rskleven)
+- Cody Johnson
+- [Celeste Parker](https://www.drupal.org/user/2945261)
+- [Charles Sanders](https://www.drupal.org/u/csanders)
+- [Rob Green](https://www.drupal.org/u/robgreeniowa)
+
 ### Keynotes
 - [Christine Perfetti](https://www.drupal.org/user/2529244), [User Experience](http://2015.drupalcorn.org/christine-perfetti/index.html)
 - [Cathy Theys](https://www.drupal.org/u/yesct), [Building a Drupal Community](http://2015.drupalcorn.org/cathy-theys/index.html)
@@ -145,4 +156,3 @@ We're back.
 - Contributing to Drupal - AmyJune Hineline
 - Guidebook for DrupalCorn
 - Module updates
-
