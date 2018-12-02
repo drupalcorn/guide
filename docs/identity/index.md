@@ -27,7 +27,7 @@ We should strive to be friendly and welcoming to *everyone* in our communication
 
 The Druplicorn logo is one of the most identifiable logos for Drupal camps around. It is a kernel of corn with the Druplicon face on it. It is friendly, bright, and colorful.
 
-![Druplicorn Logo](../images/druplicorn-150.png)
+![Druplicorn Logo](images/druplicorn-150.png)
 
 # Branding Assets
 
@@ -49,10 +49,10 @@ The Druplicorn logo is one of the most identifiable logos for Drupal camps aroun
 [Century Gothic](https://catalog.monotype.com/family/monotype/century-gothic)
 
 Bold:<br>
-![DrupalCorn in Century Gothic Bold](../images/century-gothic-bold.png)
+![DrupalCorn in Century Gothic Bold](images/century-gothic-bold.png)
 
 Regular:<br>
-![DrupalCorn in Century Gothic Regular](../images/century-gothic-regular.png)
+![DrupalCorn in Century Gothic Regular](images/century-gothic-regular.png)
 
 CSS:<br>
 ```font-family: "Century Gothic","CenturyGothic","AppleGothic",sans-serif;```
@@ -62,7 +62,7 @@ CSS:<br>
 [Verdana](https://catalog.monotype.com/family/microsoft-corporation/verdana)
 
 Regular:<br>
-![DrupalCorn in Verdana Regular](../images/verdana-regular.png)
+![DrupalCorn in Verdana Regular](images/verdana-regular.png)
 
 CSS:<br>
 ```font-family: Verdana, Helvetica, Arial, sans-serif;```
