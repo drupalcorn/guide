@@ -22,11 +22,12 @@ We expect participants to follow these rules at conference and workshop venues a
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff immediately.
 
+**If it is an emergency, contact the police by dialing 911.**
+
 ### How to get assistance:
 
--   Email Ann Greazel at  [safety@drupalcorn.org](mailto:safety@drupalcorn.org).
+-   Email  [safety@drupalcorn.org](mailto:safety@drupalcorn.org).
 -   Find a committee member. We are identified by a ribbon on our badge.
--   Submit an anonymous form.
 
 All reports will be handled confidentiality. If you agree, we will contact you and arrange to speak privately. You are welcome to bring a trusted person for support. We will clarify any policies, and discuss what options are available for addressing the complaint. The alleged transgressor will be notified of the complaint and asked for any other information. Staff will confer to decide on appropriate action. If the complaint is determined to violate the code of conduct, we’ll let you know how we plan to proceed. This procedure may be adjusted to accommodate unique circumstances.
 
