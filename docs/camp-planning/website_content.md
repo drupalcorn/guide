@@ -8,6 +8,7 @@ Registration is usually done through Eventbrite. Eventbrite offers an embeddable
 
 ## Basic Pages
 There are a few generic pages that we normally have on the site.
+
 * **About** - General information about DrupalCorn. [Example](http://2018.drupalcorn.org/about/index.html)
 * **Location(s)** - A list of all the venues for the camp. Address, maps, and pictures of all the places. A list of transportation options in the area (public transit, taxi, shuttles, airport information). [Example](http://2018.drupalcorn.org/venue/index.html)
 * **Lodging** - Information about the hotel blocks reserved for DrupalCorn along with address, deadlines, parking, WiFi and other basic information. Pictures would be nice too. [Example](http://2018.drupalcorn.org/lodging/index.html)
