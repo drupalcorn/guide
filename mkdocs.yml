@@ -12,8 +12,8 @@ nav:
     - Meetings: 'camp-planning/meetings.md'
     - Venue and Dates: 'camp-planning/venue_dates.md'
     - Website: 
-      - Content: 'camp-planning/website_content.md'
       - Hosting: 'camp-planning/website.md'
+      - Content: 'camp-planning/website_content.md'
     - Sponsors: 'camp-planning/sponsors.md'
     - Lodging: 'camp-planning/lodging.md'
     - Marketing: 'camp-planning/marketing.md'

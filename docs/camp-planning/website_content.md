@@ -3,6 +3,9 @@ The website is the primary source of information about the camp. All other menti
 
 It is important that the website is updated as soon as information is available and reflects the DrupalCorn [Identity and Brand](../../identity). 
 
+## Teaser/Splash Site
+In order to get information out as early as possible and to help recruit sponsors, we sometimes publish a static site with basic information about dates, venue, and information about sponsoring. This may be replaced with a full-featured Drupal site at later time.
+
 ## Registration
 Registration is usually done through Eventbrite. Eventbrite offers an embeddable widget that can be placed on a registration page. Actually integrating Eventbrite with the Drupal site can be difficult, so that's optional. Any call-to-action for registration (such as in the a news item, or a page listing trainings) should link to the registration page that the embed widget is displayed.
 
@@ -30,7 +33,5 @@ Sponsors are usually listed on a sponsor listing page with just their logo linke
 ## Schedule
 ## Sessions
 ## Users
-## Teaser/Splash Site
-In order to get information out as early as possible and to help recruit sponsors, we sometimes publish a static site with basic information about dates, venue, and information about sponsoring.
 ## Other Considerations
 
