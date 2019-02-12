@@ -2,6 +2,9 @@ site_name: DrupalCorn Guide
 theme: readthedocs
 repo_url: https://github.com/drupalcorn/guide
 nav:
+# &#13 is a carrage return. If we don't have a link as the first item the 'front page'
+# will be Identity and Branding. It's a hack, but works.
+  - '&#13;': 'index.md'
   - About:
     - About this Guide: 'index.md'
     - Structure: 'structure.md'
