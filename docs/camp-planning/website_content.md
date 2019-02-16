@@ -1,3 +1,4 @@
+
 ## Overview
 The website is the primary source of information about the camp. All other mentions of the camp on other websites, social media, emails, stickers, and other marketing materials will reference the camp website for the canonical source of information about DrupalCorn.
 
@@ -31,6 +32,14 @@ A content type for sponsors so that we can display our sponsorships across the s
 Sponsors are usually listed on a sponsor listing page with just their logo linked to the node, grouped by Type. [Example](http://2018.drupalcorn.org/sponsors/index.html). Platinum sponsors can also be displayed in a block that is displayed on all pages of the site.
 
 ## Schedule
+**Timeslot**
+
+Each "item" in the schedule will need a timeslot. This could be a taxonomy vocabulary. We define time slot terms for when events can happen. For example "Thursday 8am to 9am", and "Thursday 9am to noon", etc. As a taxonomy term, we can weight the terms in chronological order and later display associated nodes/entities grouped by time slots on a schedule view.
+
+**Schedule Item**
+
+Each item could be a Session, Training, or Other  (like Lunch or Registration, Sprint or Party). These could be different entity types with shared fields for Timeslot and Description. So it can be listed together on the schedule view.
+
 ## Sessions
 ## Users
 ## Other Considerations
