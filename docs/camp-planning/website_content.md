@@ -64,5 +64,16 @@ A list of of nodes grouped by timeslot. In order for this view to work, the node
 This view could also have exposed filters for things like track/tags, day. It should be easy for us to default the exposed filters to the current day.
 
 ## Users
+To make updates to sesion nodes easier, we like to have session nodes owned by a presenter so they can update/revise as needed. We like to collect and display the following information on the users (all optional)
+
+* Name
+* Title
+* Company/Organization
+* Drupal.org Username: links
+* Biography
+* Profile picture
+
+We can also use entity relationships to attach sessions and sponsorships.
+
 ## Other Considerations
 
