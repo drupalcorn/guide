@@ -3,7 +3,7 @@
 
 
 # The Beginning
-![Old DrupalCorn Logo](../img/drupalcornguy.png)
+![Old DrupalCorn Logo](img/drupalcornguy.png)
 
 Before there was a Drupal camp in Iowa, there was a group called DrupalCorn that had monthly meetups in Ames. The group was started in 2006 by [Matt Westgate](https://www.drupal.org/user/2275). It seems he may have [coined the word "DrupalCorn"](https://groups.drupal.org/node/1814). A few years later the group was mostly organized by [Michael Hofmockel](https://www.drupal.org/user/20694).
 
@@ -182,3 +182,34 @@ We're back. The venue was the [Iowa Center for Higher Education](https://desmoin
 - Contributing to Drupal - AmyJune Hineline
 - Guidebook for DrupalCorn
 - Module updates
+
+## 2019 - Des Moines
+
+Nov 6 -8, 2019 | [http://2019.drupalcorn.org/](https://2019.drupalcorn.org/)
+
+We're pretty much decided to stay in Des Moines to keep things easier to organize. However, the Iowa Center for Higher Educatioin was closed down, so we were able to move to the [Des Moines Central Library](https://goo.gl/maps/1WsKNwrcRkGLxAav9) in downtown Des Moines. This space was even better and just the right size. The main hotel was the [Hyatt Place Des Moines (downtown)](https://www.hyatt.com/en-US/hotel/iowa/hyatt-place-des-moines-downtown/dsmzd) and an alternate at the [Des Moines Marriott Downtown](https://www.marriott.com/hotels/travel/dsmia-des-moines-marriott-downtown/). The evening social was sponsored by and at the [Principal Financial Group](https://www.principal.com/) headquarters.
+
+### Committee
+
+- [John Rearick](https://www.drupal.org/u/jrearick)
+- [Ann Greazel](https://www.drupal.org/u/AnnGreazel)
+- [DeWayne Purdy](https://www.drupal.org/u/dewpurdy)
+- [Lee Hood](https://www.drupal.org/u/coder51)
+- [Rachel Kleven](https://www.drupal.org/u/rskleven)
+- [Celeste Parker](https://www.drupal.org/user/2945261)
+- [Alyssa Hanson](https://www.drupal.org/u/ajlib)
+- [Steven Hodges](https://www.drupal.org/u/stevenh1901)
+
+### Keynotes
+
+- [Tessa Kriesel](https://www.tessakriesel.com/), [Developing a Culture of Mentorship](https://2019.drupalcorn.org/session/keynote-developing-culture-mentorship)
+
+### Training
+
+- [Getting Started with Drupal 8 (All Day)](https://2019.drupalcorn.org/training/getting-started-with-drupal-8) - [Pantheon](https://pantheon.io) ([Matt Cheney](https://pantheon.io/team/matt-cheney), [Katie Richards](https://pantheon.io/team/katie-richards)), $10
+- [Hosting Drupal on Kubernetes (1pm - 5pm)](https://2019.drupalcorn.org/training/kubernetes-for-drupal) - TEN7 ([Tess Flynn](https://www.drupal.org/u/socketwench), [Ivan Stegic](https://www.drupal.org/u/ivanstegic)), $10
+
+### Sprint
+
+- No sprint this year
+
