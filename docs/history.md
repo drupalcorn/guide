@@ -213,3 +213,7 @@ We're pretty much decided to stay in Des Moines to keep things easier to organiz
 
 - No sprint this year
 
+## 2020 - Canceled
+
+We didn't really plan this year with the uncertainty of COVID-19.
+
