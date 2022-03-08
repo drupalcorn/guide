@@ -43,7 +43,7 @@ Be sure to make it clear that if they have an idea for supporting the event that
 
 ## Organizing Sponsors (CRM)
 
-Once we have a prospectus and and have this year's sponsor opportunities on the website, we can start contacting potential sponsors. Over the years we have been cultivating relationships with people and organizations. With so much information we need to keep track of, it's a good idea have some sort of system to keep all our sponsor information organized. 
+Once we have a prospectus and have this year's sponsor opportunities on the website, we can start contacting potential sponsors. Over the years we have been cultivating relationships with people and organizations. With so much information we need to keep track of, it's a good idea have some sort of system to keep all our sponsor information organized. 
 
 During one of the planning meetings we brainstorm potential sponsors and strategy for each one. We facilitate this with our sponsors sheet in Google Drive that we copy from year to year. We have columns for the following information:
 
@@ -57,7 +57,7 @@ During one of the planning meetings we brainstorm potential sponsors and strateg
 * **Sponsored Level** - The actual level they sponsored at
 * **Notes** - Helpful notes for when we engage to talk with the sponsor. Eg. previous support level, our perceptions of what their goals and values are 
 
-Once we start getting sponsors committing to supporting the event, we start a new sheet or separate spreadsheet document to document the state of their sponsorship for the year. This helps us keep track of commitments of both parties. This can be referenced on a regular basis to make sure the sponsors are providing the information we need to execute their benefits. We have the following columns:
+Once we start getting sponsors committing to supporting the event, we start a new worksheet or separate spreadsheet to document the state of their sponsorship for the year. This helps us keep track of the commitments of both parties. This can be referenced on a regular basis to make sure the sponsors are providing the information we need to execute their benefits. We have the following columns:
 
 * **Sponsor** - name of the sponsor
 * **Sponsor Level** - The level or benefit they have agreed to purchase
@@ -72,11 +72,25 @@ Once we start getting sponsors committing to supporting the event, we start a ne
 * **Reason** - We ask the sponsor why they are supporting DrupalCorn. This helps us understand them better and may give insight on how we can work with them better in the future.
 * **Notes** - Any other notes that would be useful for executing their benefits or any special benefits negotiated.
 
-Having this information recorded and kept up to date makes it easier to remind the sponsor of any information we may still need from them. We want to confirm the benefits they want to use. For example, if a sponsor declines to use a sponsor table, that may free it up for another sponsor to use it.
+Having this information recorded and kept up to date makes it easier to remind the sponsor of any information we may still need from them. We want to confirm the benefits they want to use. For example, if a sponsor declines to use a sponsor table, that may free it up for another sponsor to use.
 
 ## Finding Sponsors
 
-@todo
+Finding sponsors and the people who would be willing to entertain the thought of sponsoring our event can be tricky. It's important to target organizations that would benefit from participating in our event. For example, it is unlikely that Facebook would want to sponsor a camp, so it's probably not worth our time pursuing.
+
+Find local organizations that we know use Drupal. Often these organizations are hungry for Drupal talent and have people on staff that will want attend the event for professional development. Framing sponsorship as a low-cost, high quality professional development opportunity can be effective.
+
+Other good organizations to reach out to are agencies that use Drupal. They are often looking to recruit talent and flex their leadership in the community to their current and potential clients.
+
+### Starting the conversation
+
+One of the best ways to start a conversation with a potential sponsor is to attend other events where they are participating. Go to DrupalCon, other camps, or meetups. Play the hallway track and talk with people at their booth. Come prepared with paper copies of the prospectus, stickers, and/or business cards with that have your contact information and URL to the sponsor prospectus.
+
+While at other Drupal events, it's important to show and promote our brand. Wear DrupalCorn t-shirts and give out stickers and cards to anyone who wants them. Present at other camps and mention your affiliation with DrupalCorn during your introduction. This marketing helps spread word of mouth. With a recognized brand comes a level of trust and legitimacy that makes asking for a sponsorship easier. It also increases the likelihood of a sponsor contacting you out of the blue, which is always a nice surprise when it does happen.
+
+Another good way to start the conversation with an organization is to go through a personal connection. If you know an engineer or manager at an organization that uses Drupal, have a conversation with them and ask them who to talk to in order to discuss a sponsorship. Have the person make the introduction so it's not a cold call. Having that referral helps establish a level of trust and familiarity since it was referred internally.
+
+While many larger organizations do have sponsorship intake, the competition for those funds and the impersonal nature of those processes make it really difficult to find success. It may be worth filling those out, but do not expect major support other than for in-kind sort of deals like a free subscription to give away or something.
 
 ## Sponsor Communication
 
@@ -88,7 +102,11 @@ Having this information recorded and kept up to date makes it easier to remind t
 
 ### Commitment
 
+@todo
+
 ### Pre-event reminder and verification
+
+@todo
 
 ## Sponsor Payment
 
@@ -101,3 +119,4 @@ Having this information recorded and kept up to date makes it easier to remind t
 ## Sponsor ethics and transparency
 
  @todo
+ 
