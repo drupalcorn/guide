@@ -8,6 +8,4 @@ The contents of this guide should be taken as recommendations based on what has 
 This guide is created using [MkDocs](https://www.mkdocs.org/user-guide/writing-your-docs/), a documentation tool that uses [Markdown](https://daringfireball.net/projects/markdown/). It is hosted on DrupalCorn's GitHub. Feel free to fork, create issues, and make pull requests. If you fork it for your own camp, please [let us know](mailto:info@drupalcorn.org), we're interested in hearing how it's being used.
 
 ## Deploying the Guide
-Committing to the master branch will trigger a build that deploys to GitHub Pages. This is accomplished using Travis CI.
-
-In the repository is a .travis.yml file that holds configuration for the Travis CI service. When changes are made on the master branch Travis CI will build the project and deploy it to GitHub pages. Commit access to repository from Travis is a personal access token on jrearick's account.
+Committing to the master branch will trigger a build that deploys to GitHub Pages. This is accomplished using GitHub Actions configured for this repository.
