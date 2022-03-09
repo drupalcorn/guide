@@ -84,6 +84,8 @@ Other good organizations to reach out to are agencies that use Drupal. They are 
 
 ### Starting the conversation
 
+Once we have the dates and prospectus up, it's time to to get the conversation started. We usually start with an email to the mailing list to announce the camp and ask sponsors to look at the prospectus. See an [example of a recent sponsor email](https://mailchi.mp/19e5b29844de/opportunities-for-sponsors-at-drupalcorn-camp-1073525?e=97e71f74b8).
+
 One of the best ways to start a conversation with a potential sponsor is to attend other events where they are participating. Go to DrupalCon, other camps, or meetups. Play the hallway track and talk with people at their booth. Come prepared with paper copies of the prospectus, stickers, and/or business cards with that have your contact information and URL to the sponsor prospectus.
 
 While at other Drupal events, it's important to show and promote our brand. Wear DrupalCorn t-shirts and give out stickers and cards to anyone who wants them. Present at other camps and mention your affiliation with DrupalCorn during your introduction. This marketing helps spread word of mouth. With a recognized brand comes a level of trust and legitimacy that makes asking for a sponsorship easier. It also increases the likelihood of a sponsor contacting you out of the blue, which is always a nice surprise when it does happen.
@@ -94,29 +96,103 @@ While many larger organizations do have sponsorship intake, the competition for 
 
 ## Sponsor Communication
 
-@todo
-
-### Pre-commitment
-
-@todo
+Communicating with sponsors is important.  Being prompt and relevant with your communications reflects positively on the us. Try to respond to sponsor messages within one business day. Maybe reserve some time every week to review any pending questions that haven't been answered and make sure to follow up. Fridays are not a good day to remind people of things since it is easy to slip attention over the weekend.
 
 ### Commitment
 
-@todo
+Once you get a commitment to sponsor, it's time to get the ball rolling. Update the sponsor sheet accordingly with the appropriate contact information and agreements/notes/etc. Generate an invoice for the sponsorship in PayPal and export a PDF of it (see Sponsor Payment below). Send an email that outlines the payment instructions and request any information we may need to execute their benefits. Here is an example email:
+
+> Subject: DrupalCorn Silver Sponsorship
+> 
+> Hi {{ Name }},  
+> 
+> Thank you for your interested in sponsoring DrupalCorn at the Silver level! Attached is an invoice for the Silver sponsorship. Please let me know if I need to update the billing information.  
+> 
+> Silver sponsorship comes with the following optional benefits listed below. Please let me know if you wish to opt out of any of these benefits since some of them may be limited quantity.  
+> 
+> * Attendee Tickets - Once registration begins, we will send you 2 100% off discount codes. If you don't want to use all your tickets, please feel free to give them to other people outside your organization. You can work with us to promote the distribution of your unused tickets if you like.  
+> 
+> * Listed on Website - We will recognize your sponsorship by listing your name and logo on the camp website so everyone knows that you are supporting the community and will be at the camp. 
+> 
+> What we need from you:  
+> 
+> * Payment to by check sent to:  
+> DrupalCorn Camp<br> 450 Hwy 1 W #126<br>Iowa City, IA 52246
+> 
+> or
+> 
+> PayPal {{ PayPal Invoice URL }} (We ask for a 3% tip to help cover PayPal fees, if you feel inclined to)  
+> 
+> * Logo file (for print and web), URL, and name as you would like it advertised.  
+> * A paragraph description of Ten7 to appear on our site
+> * Social Media links we may mention  
+> * A list of the benefits you expect to use so we can plan our resources accordingly. See the descriptions above.  
+> * What is your goal for sponsoring DrupalCorn camp? We'd like to help you with that goal if we can.
+> 
+> Please let me know if you have any questions. I look forward to working with you.  
+> 
+> --  
+> {{ Signature with name, email, phone, URL }}<br>{{ PDF Invoice Attachment }}
+
+Note this is a separate email from any existing chain. Having the subject clear and consistent makes it easier to look up in email archives, and keeps the messiness of any negotiation cleared up and summarized. You will want to CC any other people in their organization that will be providing this information, and having the full summary makes it easier for them to get up to speed quickly. You may be referred to someone from accounting and another person in charge of marketing. Keeping everybody on the same page is important.
+
+You may need to remind people to provide information or ask about payment status. Give them a few days to respond when following up with reminders.
 
 ### Pre-event reminder and verification
 
-@todo
+About one to two weeks before the event, It's usually a good idea to remind and verify the information and commitments with each sponsor. Doing this now will help save any last-minute headaches if exceptions were not quite aligned, or someone forgot to mention something changing. It's also a good time to invite anyone attending to the Friends of DrupalCorn dinner. Here's an example email:
+
+> Subject: DrupalCorn Sponsor Information and Welcome Gathering
+> 
+> Hi,
+> 
+> DrupalCorn Camp starts next week, and I wanted to make sure we have everything ready for you, and that you have the information you need to get the most out of your sponsorship.
+> 
+> **Confirmed Details** - Here is what we have confirmed for your sponsorship:
+> * Sponsor Level: SILVER
+> 
+> * We have received payment, Thank You! If you need another receipt, please let me know.
+> 
+> * Website listing:  {{ URL to sponsor page }}  (click on your logo for detailed information)
+> 
+> * Tweets: We have been and will continue to tweet out thanks before camp starts.
+> 
+> * Sponsor tickets have been delivered. If you haven't used some of your codes and still plan to, please do so today so we can have an accurate number for catering. If you need help with your codes, please let me know.
+> 
+> * People Confirmed Attending:<br>{{ Person 1 }}<br>{{ Person 2 }}<br>{{ Person 3 }}<br>{{ Person 4 }}
+>
+> **Friends of DrupalCorn Welcome**  - We will be having an informal gathering for sponsors and speakers at {{ Location and time }}. If you are in town, we would like to see you there! The plan is to order some delivery and play games. Please share this with the rest of your team who are coming.
+> 
+> Information about getting around the area will be posted at {{ URL about the the logistics of the area }}
+> 
+> Please let me know if I missed anything or if you have any questions.
+> 
+> Thanks again for sponsoring DrupalCorn Camp!
+> 
+> --  
+> {{ Signature with name, email, phone, URL }}
+
+This email should go to whoever is coordinating the sponsor benefits and anyone we've identified as coming to the event who is affiliated with the sponsor. Also, note that having your a phone number in the signature helps make sure if they have questions while en-route they can contact you.
 
 ## Sponsor Payment
 
 @todo
+* PayPal invoicing
+* Scan checks
+* Receipts
 
 ## Sponsors at the event
 
 @todo
+* Badge flags
+* Show to their sponsor table
+* Thank You Cards
+* Signage
+* Recognition at morning announcements and closing session
 
 ## Sponsor ethics and transparency
 
  @todo
+ * Make it clear that sponsors are expected to abide by the Code of Conduct
+ * Sessions and presentations that were not selected during the normal call for papers should be clearly labeled as a sponsored session.
  
